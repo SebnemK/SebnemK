@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SebnemK
+- 👋 Hi, I’m Shebnem Kabadayi,
 
 I've worked as a computer programmer for an insurance company in Turkey for 16 years. I wrote codes in RPG: IBM's proprietary programming language for AS400/OS400.
 I knew basics for Java and .Net back then but of course because I had not used them, I have no knowledge of them anymore... 
